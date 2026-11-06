@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Drop shadow under the 90s CD -->
+    <path
+        android:fillColor="#55000000"
+        android:pathData="M55,56m-31,0a31,31 0,1 1,62 0a31,31 0,1 1,-62 0" />
+
+    <!-- Dark 90s pixel-style outer bevel ring -->
+    <path
+        android:fillColor="#262B36"
+        android:pathData="M53,53m-31,0a31,31 0,1 1,62 0a31,31 0,1 1,-62 0" />
+
+    <!-- Main silver metallic Compact Disc body -->
+    <path
+        android:fillColor="#DCE2EC"
+        android:pathData="M53,53m-29.5,0a29.5,29.5 0,1 1,59 0a29.5,29.5 0,1 1,-59 0" />
+
+    <!-- Light silver highlight half -->
+    <path
+        android:fillColor="#EEF2F8"
+        android:pathData="M53,53 L28,37 A29.5,29.5 0 0,1 69,28 Z" />
+
+    <!-- 90s Windows CD-ROM Rainbow Prism Beams (Top-Left to Bottom-Right) -->
+    <!-- Cyan prism wedge -->
+    <path
+        android:fillColor="#4AE8F5"
+        android:pathData="M53,53 L24.5,45.5 A29.5,29.5 0 0,1 28.5,36.5 Z" />
+    <!-- Mint Green prism wedge -->
+    <path
+        android:fillColor="#62F2A2"
+        android:pathData="M53,53 L23.5,52.5 A29.5,29.5 0 0,1 24.5,45.5 Z" />
+    <!-- Golden Yellow prism wedge -->
+    <path
+        android:fillColor="#FFE055"
+        android:pathData="M53,53 L24.5,59.5 A29.5,29.5 0 0,1 23.5,52.5 Z" />
+    <!-- Magenta/Coral prism wedge -->
+    <path
+        android:fillColor="#FF6E9C"
+        android:pathData="M53,53 L27.5,66.5 A29.5,29.5 0 0,1 24.5,59.5 Z" />
+
+    <!-- Opposite Rainbow Prism Beams (Bottom-Right) -->
+    <!-- Cyan wedge -->
+    <path
+        android:fillColor="#4AE8F5"
+        android:pathData="M53,53 L81.5,60.5 A29.5,29.5 0 0,1 77.5,69.5 Z" />
+    <!-- Mint Green wedge -->
+    <path
+        android:fillColor="#62F2A2"
+        android:pathData="M53,53 L82.5,53.5 A29.5,29.5 0 0,1 81.5,60.5 Z" />
+    <!-- Golden Yellow wedge -->
+    <path
+        android:fillColor="#FFE055"
+        android:pathData="M53,53 L81.5,46.5 A29.5,29.5 0 0,1 82.5,53.5 Z" />
+    <!-- Periwinkle Blue wedge -->
+    <path
+        android:fillColor="#8C9EFF"
+        android:pathData="M53,53 L78.5,39.5 A29.5,29.5 0 0,1 81.5,46.5 Z" />
+
+    <!-- Outer specular rim stroke -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M53,53m-28.8,0a28.8,28.8 0,1 1,57.6 0a28.8,28.8 0,1 1,-57.6 0" />
+
+    <!-- Inner translucent polycarbonate clamping ring -->
+    <path
+        android:fillColor="#9EAAB8"
+        android:pathData="M53,53m-10.5,0a10.5,10.5 0,1 1,21 0a10.5,10.5 0,1 1,-21 0" />
+    <path
+        android:fillColor="#BFC9D6"
+        android:pathData="M53,53m-8.5,0a8.5,8.5 0,1 1,17 0a8.5,8.5 0,1 1,-17 0" />
+
+    <!-- Center spindle cutout -->
+    <path
+        android:fillColor="#18191E"
+        android:strokeColor="#4A5262"
+        android:strokeWidth="1.2"
+        android:pathData="M53,53m-4.8,0a4.8,4.8 0,1 1,9.6 0a4.8,4.8 0,1 1,-9.6 0" />
+
+    <!-- Classic 90s Windows "CD Player" Musical Eighth-Note Badge (Bottom-Right) -->
+    <!-- Dark outline shadow for the musical note -->
+    <path
+        android:fillColor="#14161D"
+        android:pathData="M67,48 L81,44 L81,66 A6.5,5.2 0 1,1 74.5,60.8 L77,61 L77,50 L69,52.5 L69,69 A6.5,5.2 0 1,1 62.5,63.8 L65,64 Z" />
+    <!-- Bright Periwinkle / Cyan 90s Audio Note -->
+    <path
+        android:fillColor="#BAC3FF"
+        android:strokeColor="#18191E"
+        android:strokeWidth="1.0"
+        android:pathData="M66,47 L79,43.5 L79,64.5 A5.2,4.2 0 1,1 73.5,60.2 L75.5,60.5 L75.5,48.8 L69.5,50.5 L69.5,67.5 A5.2,4.2 0 1,1 64,63.2 L66,63.5 Z" />
+</vector>

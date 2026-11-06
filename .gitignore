@@ -1,0 +1,15 @@
+.gradle/
+.gradle-dist/
+.android-sdk/
+.kotlin/
+build/
+app/build/
+local.properties
+*.apk
+.idea/
+*.iml
+captures/
+.DS_Store
+*.swp
+Gemini_Generated_Image_*.jpeg
+
