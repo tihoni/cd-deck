@@ -13,3 +13,8 @@ captures/
 *.swp
 Gemini_Generated_Image_*.jpeg
 
+# Local agent memory and rules
+GEMINI.md
+gemini.md
+MEMORY.md
+memory.md
