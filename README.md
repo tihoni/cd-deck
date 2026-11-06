@@ -9,6 +9,12 @@ Built with **Jetpack Compose** and **Material 3 Expressive**, it pairs vintage p
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-M3%20Expressive-purple)
 ![MPD](https://img.shields.io/badge/MPD-0.23%2B-orange)
 
+<p align="center">
+  <img src="Screenshot_20261105-205640.png" width="31%" alt="Now Playing Screen" />
+  <img src="Screenshot_20261105-205809.png" width="31%" alt="Synchronized Lyrics" />
+  <img src="Screenshot_20261105-205817.png" width="31%" alt="Tracklist Sheet" />
+</p>
+
 ---
 
 ## Features
